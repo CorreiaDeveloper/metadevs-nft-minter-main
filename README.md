@@ -1,7 +1,5 @@
 # NFT Minter 
 
-Acesse a comunidade Metadevs: https://wwww.metadevs.com.br/
-
 Esse projeto é uma aplicação web utilizando ReactJs, Alchemy Web3.0, Piñata, SmartContracts com Solidity & OpenZeppelin além do Truffle & Ganache para realizar os testes em uma Blockchain Ethereum de teste.
 
 ## ATENÇÃO: `Código Inicial do Curso`vs Código completo 
